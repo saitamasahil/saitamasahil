@@ -11,11 +11,13 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 📝 I regularly write articles on [https://telegram.me/s/modulesrepo](https://telegram.me/s/modulesrepo)
+- 📝 I regularly write articles on [Modules Repository on Telegram](https://telegram.me/modulesrepo)
 
 - 💬 Ask me about **Magisk Modules scripts & other general stuffs related to it**
 
-- 📫 How to reach me **sahilmanchanda1996@gmail.com**
+- 📫 How to reach me at [E-mail](sahilmanchanda1996@gmail.com)
+
+- 🗃 Know more about [TeamFIles](https://telegram.me/filesfederation)
 
 - ⚡ Fun fact **I think I am funny**
 
