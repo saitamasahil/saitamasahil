@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Magisk Modules scripts & other general stuffs related to it**
 
-- 📫 How to reach me at [E-mail](sahilmanchanda1996@gmail.com)
+- 📫 How to reach me at **sahilmanchanda1996@gmail.com**
 
 - 🗃 Know more about [TeamFIles](https://telegram.me/filesfederation)
 
