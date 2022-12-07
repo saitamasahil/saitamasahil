@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/saitamasahil/saitamasahil/main/Banner.jpeg)](https://github.com/TeamFiles)
-<h1 align="center">Hi 👋, I'm Sahil Manchanda. I am Founder of TeamFiles</h1>
+<h1 align="center">Hi 👋, I'm Sahil Manchanda. I am Founder of TeamFiles.</h1>
 <h3 align="center">A passionate guy from India with some knowledge of Android & Magisk Module Development</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/saitamasahil/saitamasahil/main/gif.gif")
 
