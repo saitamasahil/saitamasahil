@@ -11,7 +11,6 @@
   
 ## 💡 About
 <a href="https://github.com/saitamasahil">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=saitamasahil&theme=dark&show_icons=true)">
   <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=saitamasahil&theme=dark">
 </a>
 
