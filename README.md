@@ -79,11 +79,11 @@ Artwork scraper for muOS with Skyscraper backend, built in LÖVE2D.
 </td>
 <td width="50%">
 
-**[muOS Artwork Maker](https://github.com/saitamasahil/muOS-Artwork-Maker)**
+**[2048 Plus](https://github.com/saitamasahil/2048-muos)**
 <br/>
-Shell script to manually create dithered artwork for muOS when automated tools fail. Supports multiple resolutions.
+A polished 2048 puzzle game for muOS handhelds with smooth controller support, clean interface, animations, score tracking, and multiple board sizes.
 
-<img src="https://img.shields.io/github/stars/saitamasahil/muOS-Artwork-Maker?style=flat-square&color=70a5fd"/> <img src="https://img.shields.io/github/forks/saitamasahil/muOS-Artwork-Maker?style=flat-square&color=a9fef7"/>
+<img src="https://img.shields.io/github/stars/saitamasahil/2048-muos?style=flat-square&color=70a5fd"/> <img src="https://img.shields.io/github/forks/saitamasahil/2048-muos?style=flat-square&color=a9fef7"/>
 
 </td>
 </tr>
