@@ -81,7 +81,7 @@ Artwork scraper for muOS with Skyscraper backend, built in LÖVE2D.
 
 **[2048 Plus](https://github.com/saitamasahil/2048-muos)**
 <br/>
-A polished 2048 puzzle game for muOS handhelds with smooth controller support, clean interface, animations, score tracking, and multiple board sizes.
+A feature-packed implementation of the classic puzzle game 2048 for muOS, built using the LÖVE framework.
 
 <img src="https://img.shields.io/github/stars/saitamasahil/2048-muos?style=flat-square&color=70a5fd"/> <img src="https://img.shields.io/github/forks/saitamasahil/2048-muos?style=flat-square&color=a9fef7"/>
 
